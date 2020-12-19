@@ -1,5 +1,5 @@
 /*
- * Copyright 2020 Ivan Velikanova <ivan@jphil.xyz>.
+ * Copyright 2020 Ivan Velikanova  ivan.velikanova@gmail.com.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ import java.util.zip.Checksum;
 
 /**
  *
- * @author Ivan Velikanova <ivan@jphil.xyz>.
+ * @author Ivan Velikanova  ivan.velikanova@gmail.com.
  */
 public class MultiPointQuickChecksum {
     private final long value;
