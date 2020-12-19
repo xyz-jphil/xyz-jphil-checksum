@@ -1,0 +1,1 @@
+Utilities for finding rough and quick checksum without hashing an entire file
